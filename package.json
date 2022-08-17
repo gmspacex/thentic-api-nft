@@ -1,0 +1,11 @@
+{
+  "name": "thentic-api-nft",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:gmspacex/thentic-api-nft.git",
+  "author": "gmspacex <gmspacex@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
